@@ -9,8 +9,7 @@ To explore these projects, clone the repository and follow the instructions prov
 # To use this project run
 
 ```bash
-  git clone https://github.com/whisplnspace
-  machine-learning-projects.git
+  git clone https://github.com/whisplnspace/machine-learning-projects.git
   cd machine-learning-projects
   pip install -r requirements.txt
 
